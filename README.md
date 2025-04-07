@@ -69,10 +69,12 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
-### 📱 Mobile / Hardware
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+### 📡 IoT / Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-333333?style=for-the-badge&logo=espressif&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2C3E50?style=for-the-badge&logo=micropython&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-FF6600?style=for-the-badge&logo=tinkercad&logoColor=white)
 
 ---
 
